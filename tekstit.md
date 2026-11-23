@@ -154,39 +154,39 @@ Circlingiä kutsutaan myös vuorovaikutteiseksi meditaatioksi, mutta lopulta mit
 
 Circling on authentic relatingin sisarharjoitus. Niillä on yhteiset juuret ja paljon samaa, mutta painotukset eroavat.
 
-Authentic relatingin näkökulmasta circling on yksi sen peleistä – hieman syvempi ja haastavampi. Circlingin näkökulmasta taas authentic relating -pelit ovat lämmittelyharjoituksia, jotka valmistavat varsinaiseen circlingiin. Kummassakin näkemyksessä on totuutta.
+Authentic relatingin näkökulmasta circling on yksi sen peleistä – hieman syvempi ja haastavampi. Circlingin näkökulmasta taas authentic relating -pelit ovat lämmittelyharjoituksia, jotka valmistavat varsinaiseen circlingiin. Kummassakin näkemyksessä voi olla hieman totuutta.
 
 ### Circlingin muotoja
 
-- **Fokuscircling (birthday circle)** – ryhmän huomio on yhdessä ihmisessä kerrallaan: hänen kokemuksessaan ja siinä, millaista on olla hänen kanssaan juuri nyt. Fokusta voi tehdä pareittain, kolmen hengen ryhmissä tai isommassa piirissä, yleensä 12–25 minuuttia henkilöä kohden.
-- **Flow circling (surrendered leadership)** – piirissä ei ole yhtä fokusta, vaan huomio liikkuu vapaasti sen mukaan, mikä ryhmässä kulloinkin elää. Johtajuus on jaettua, ja jokainen voi ohjata yhteistä huomiota.
-- **Piiricircling** – yhteinen piiri, jossa vain yksi puhuu kerrallaan.
+- **Fokuscircling (birthday circle)** – ryhmän huomio on yhdessä ihmisessä kerrallaan: hänen kokemuksessaan ja siinä, millaista on olla juuri hän ja hänen kanssaan juuri nyt. Fokusta voi tehdä pareittain, kolmen hengen ryhmissä tai isommassa piirissä, yleensä 12–25 minuuttia henkilöä kohden.
+- **Flow circling (surrendered leadership)** – piirissä ei ole yhtä fokusta, vaan huomio liikkuu vapaasti sen mukaan, mikä ryhmässä kulloinkin elää. Johtajuus on jaettua, ja jokainen voi ohjata sitä miten yhteinen kenttä ja kokemus kehittyy.
+- **Piiricircling** – yhteinen piiri, jossa huoio liikkuu, mutta vain yksi puhuu kerrallaan.
 
-Circlingin konteksti voi olla yksinkertaisesti se, millaista on olla juuri nyt tässä hetkessä näiden ihmisten kanssa. Se voi myös olla jokin aihe, joka tuntuu sillä hetkellä tärkeältä.
+Circlingin konteksti voi olla yksinkertaisesti se, millaista on olla juuri nyt tässä hetkessä näiden ihmisten kanssa. Kontekstina voi myös olla jokin etukäteen määritelty aihe, jonka ympärillä cirlataan.
 
 ### Miten ilta etenee?
 
-Ilta alkaa usein rentoutuksella, ja siihen kuuluu usein myös pariharjoitus, kuten noticing game tai paricircling. Illan aikana virittäydymme läsnäoloon erilaisten pari- ja ryhmäharjoitusten kautta. Tutkimme kuuntelemista, kokemuksen sanoittamista ja sitä, miten olla yhteydessä toiseen samalla kun pysymme yhteydessä itseemme. Ilta kestää kolme tuntia (klo 18.15–21.15), ja sen aikana pidämme teetauon.
+Ilta alkaa yleensä yhteisellä tilaan lasketumisella ja rentoutuksella, kenties kevyellä pariharjoituksella. Illan aikana tutkimme yhteistä läsnäoloa erilaisten pari- ja ryhmäharjoitusten kautta. On mahdollisuus tutkia kuuntelemista, kokemuksen sanoittamista ja sitä, miten olla yhteydessä toiseen samalla kun pysymme yhteydessä itseemme. Ilta kestää kolme tuntia (klo 18.15–21.15), ja sen aikana pidämme teetauon.
 
-Kun huomio siirtyy kehoon, jotain alkaa usein pehmetä. Hengitys syvenee, aistimukset voimistuvat ja myös kehon luonnollinen liike voi herätä. Läsnäolo ei ole enää vain mielen tila, vaan jotain elävää ja kehossa koettavaa.
+Oleellista on kehollisuuden taso, minkälaista olla kehossa juuri nyt ja mitä tuntemuksia huomaa itsessään. Kun huomio siirtyy kehoon, jotain alkaa usein pehmetä. Hengitys syvenee, aistimukset voimistuvat ja myös kehon luonnollinen liike voi herätä. Läsnäolo ei tapahtu vain mielessä, vaan jotain elävää ja kehossa koettavaa. Joskus kehollisuus voi johtaa autenttisen liikkeen kaltaiseen olemiseen, tai kontakti-impron kaltaiseen yhteiseen kehoiluun. Kenttä on avoin uteliaisuudelle, kokeilulle ja tutkimiselle.
 
-Yhteinen tila voi syventyä kentäksi, jossa yksilöllinen kokemus alkaa laajentua. Hetkittäin saatamme kokea yhteyttä, joka ei ole pelkästään henkilökohtainen — vaan jaettu me-tila, avartunut, jopa transpersoonallinen. Tämä voi tuntua ravitsevalta, vapauttavalta ja yllättävänkin koskettavalta.
+Illan edetessä yhteinen tila voi syventyä kentäksi, jossa yksilöllinen kokemus alkaa laajentua. Hetkittäin saatamme kokea yhteyttä, joka ei ole pelkästään henkilökohtainen — vaan jaettu me-tila, avartunut, jopa transpersoonallinen, yksilön persoonan tason ylittävä. Tämä voi tuntua ravitsevalta, vapauttavalta, mystiseltä tai yllättävänkin koskettavalta.
 
 ### Elävä harjoitus
 
-Circling ei ole suoritus eikä tekniikka, vaan elävä tutkimusmatka. Jokainen ilta on erilainen. Välillä ilta muistuttaa authentic relatingia, välillä annamme kehon johdattaa autenttisen liikkeen hengessä, ja joskus ilta on kuin keskustelevaa meditaatiota: hidasta, hiljaista ja tarkkaavaista puhetta.
+Circling ei ole suoritus eikä tekniikka, vaan elävä tutkimusmatka. Lähes aina jokainen ilta on erilainen. Välillä ilta muistuttaa authentic relatingia, välillä annamme kehon johdattaa autenttisen liikkeen hengessä, ja joskus ilta on kuin keskustelevaa meditaatiota: hidasta, hiljaista ja tarkkaavaista.
 
-Suunnan valitsee usein ryhmä itse. Kuuntelemme, millainen energia ja dynamiikka piirissä kulloinkin elää, ja annamme sen ohjata, mihin ilta vie. Sinä saat tulla juuri sellaisena kuin olet — mitään muuttamatta.
+Suunnan valitsee fasilitaattori, tai ryhmä itse. Ohjaaja pyrkii yleensä kuulemaan herkällä korvalla mikä voisi palvella  näitä ihmisiä juuri tässä hetkessä. Kuuntelemme yhdessä millainen energia ja dynamiikka piirissä kulloinkin elää, ja annamme sen ohjata, mihin ilta vie. Jokainen osallistuja saa tulla mukaan juuri sellaisena kuin on — mitään muuttamatta.
 
 ## Fasilitaattorit
 
-Ossi ja Anssi ovat ohjanneet circlingiä yhdessä neljä vuotta, aina tavoitteena luoda tila, jossa voi olla aidosti oma itsensä.
+Ossi ja Anssi ovat ohjanneet circlingiä yhdessä vuodesta 2021. Tavoitteena on luoda tila, jossa jokainen voi olla aidosti oma itsensä.
 
 ### Ossi
 
 [Kuva: lisää tiedosto ossi.jpg ja vaihda tämä rivi muotoon ![Ossi](ossi.jpg "muotokuva")]
 
-Arkkitehti, kehollisuuden ja tantristen menetelmien ohjaaja, yli 20 vuoden meditaatiotausta. Häntä inspiroi turvallisen mutta transformatiivisen tilan luominen, jossa jokaisella on mahdollisuus kasvaa.
+Lehollisuuteen virittävien menetelmien ohjaaja, mm. somatic experiencing, authentic relating, circling. Häntä inspiroi turvallisen mutta transformatiivisen tilan luominen, jossa jokaisella on mahdollisuus kasvaa ja kohdata autenttinen itsensä. Hän toimii myös arkkitehtina ja on harjoittanut meditaatiota vuodesta 2001.
 
 ### Anssi
 
