@@ -65,9 +65,7 @@ nav a.on{color:#fff;background:var(--turkoosi)}
 /* ---------- Kansikuva (sivun ensimmäinen kuva) ---------- */
 .sivu > p:first-child:has(> img){margin:0 0 48px}
 .sivu > p:first-child > img{
-  width:100%;margin:0;border-radius:24px;
-  aspect-ratio:16/7;               /* matalampi = enemmän leikattu ylä- ja alalaidasta */
-  object-fit:cover;object-position:center 62%;
+  width:100%;height:auto;margin:0;border-radius:0;   /* tietokoneella koko kuva, ei rajausta */
   box-shadow:0 12px 30px rgba(27,52,64,.12)}
 
 /* ---------- Muotokuvat: ![Nimi](kuva.jpg "muotokuva") ---------- */
@@ -157,7 +155,7 @@ footer p{margin:0}
   .sivu{padding:36px 0 56px}
   /* puhelimella kansikuva reunasta reunaan */
   .sivu > p:first-child:has(> img){width:100vw;margin:-8px 0 40px calc(50% - 50vw)}
-  .sivu > p:first-child > img{width:100vw;max-width:none;border-radius:0;aspect-ratio:16/10}
+  .sivu > p:first-child > img{width:100vw;max-width:none;border-radius:0;aspect-ratio:16/10;object-fit:cover;object-position:center 62%}
   .slogan{font-size:.9rem;letter-spacing:.04em}
   h1{font-size:2.2rem}
   /* puhelimella sivu pienentää sloganin ja otsikon juuri niin paljon, että ne mahtuvat yhdelle riville */
