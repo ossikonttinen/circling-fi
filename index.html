@@ -99,10 +99,11 @@ function ilmoKortti(e){
   return `<div class="ilmo">
     <button class="ilta${luokka}" data-id="${esc(e.id)}" ${taynna ? "disabled" : ""} aria-expanded="false">
       <div class="pvm"><div class="d">${e.paiva}</div><div class="m">${KUUT[e.kuukausi-1]}</div></div>
-      <div><h3>${esc(e.otsikko)}</h3><div class="meta">${esc(e.viikonpaiva)} klo ${esc(e.alku)}${e.loppu ? "–"+esc(e.loppu) : ""} · ${esc(e.paikka)}</div></div>
+      <div><h3>${esc(e.otsikko)}</h3><div class="meta">${esc(e.viikonpaiva)} klo ${esc(e.alku)}${e.loppu ? "–"+esc(e.loppu) : ""}</div></div>
       <span class="tila${taynna ? " taynna" : ""}">${esc(tila)}</span>
     </button>
     <form class="lomake" data-id="${esc(e.id)}" novalidate>
+      <p class="paikka">${esc(e.paikka)}</p>
       <label>Nimi (etunimi riittää)<input name="nimi" autocomplete="given-name" required maxlength="100"></label>
       <label>Sähköposti (vapaaehtoinen)<input name="email" type="email" autocomplete="email" maxlength="200"></label>
       <label>Viesti ohjaajille (vapaaehtoinen)<textarea name="viesti" maxlength="1000"></textarea></label>

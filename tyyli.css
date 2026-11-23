@@ -94,6 +94,7 @@ img[title="muotokuva"]{width:140px;height:140px;object-fit:cover;border-radius:5
 .ei-iltoja{color:var(--harmaa);font-style:italic}
 
 /* ---------- Ilmoittautumislomake ---------- */
+.lomake .paikka{margin:0 0 4px;color:var(--harmaa);font-size:.92rem}
 button.ilta{width:100%;font:inherit;text-align:left;cursor:pointer;background:#fff}
 button.ilta[disabled]{cursor:default;opacity:.6}
 .lomake{display:none;margin:-6px 0 8px;padding:22px;border:1px solid var(--turkoosi-reuna);border-top:0;border-radius:0 0 var(--pyoristys) var(--pyoristys);background:#fff}
