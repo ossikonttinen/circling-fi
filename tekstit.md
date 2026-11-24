@@ -22,7 +22,7 @@
   - {{illat}}   = näyttää kolme seuraavaa iltaa (etusivulla)
   - Videot-sivun YouTube-linkit näytetään kortteina: kansikuva YouTubesta ja linkin teksti nimenä.
   - Lista, jonka kaikki kohdat alkavat lainausmerkillä ”, näytetään palautekortteina.
-  - Jos illan otsikossa on sana "avoin", kortti näkyy sinisenä; "joulu" tai "pikkujoulut" punaisena; muut oransseina.
+  - Jos illan otsikossa on sana "avoin", kortti näkyy lohenpunaisena; "joulu" tai "pikkujoulut" punaisena; muut sinisinä.
   - Illan voi lisätä listaan omalla otsikolla, esim.:
       @ 12.1.2027 | ma klo 18.15–21.15 | Erikoisilta | Galleria Sitruunapuu | Ilmoittaudu | https://...
   - Illat kirjoitetaan Tulevat illat -sivulle näin, yksi ilta per rivi:

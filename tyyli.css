@@ -80,15 +80,15 @@ img[title="muotokuva"]{width:140px;height:140px;object-fit:cover;border-radius:5
 .illat{display:grid;gap:14px;margin:10px 0 18px;clear:both}
 .ilta{display:grid;grid-template-columns:86px 1fr auto;gap:18px;align-items:center;border:1px solid var(--turkoosi-reuna);border-radius:var(--pyoristys);padding:16px 18px;transition:.2s;text-decoration:none;color:inherit}
 .ilta:hover{border-color:var(--turkoosi);box-shadow:0 6px 20px rgba(62,138,163,.14)}
-.pvm{background:var(--vastavari);border-radius:12px;text-align:center;padding:8px 4px}
+.pvm{background:var(--turkoosi);border-radius:12px;text-align:center;padding:8px 4px}
 .pvm .d,.pvm .m{color:#fff !important}
 .pvm .d{font-family:var(--otsikkofontti);font-size:1.7rem;color:var(--turkoosi-tumma);line-height:1}
 .pvm .m{font-size:.78rem;text-transform:uppercase;letter-spacing:.08em;color:var(--harmaa);font-weight:700}
 .ilta h3{font-size:1.1rem;margin:0 0 2px}
 .ilta .meta{color:var(--harmaa);font-size:.93rem}
-.tila{font-size:.75rem;font-weight:700;padding:3px 10px;border-radius:999px;background:var(--vastavari);color:#fff;white-space:nowrap}
-.ilta.avoin{border-color:var(--turkoosi);background:var(--turkoosi-vaalea)}
-.ilta.avoin .pvm,.ilta.avoin .tila{background:var(--turkoosi)}
+.tila{font-size:.75rem;font-weight:700;padding:3px 10px;border-radius:999px;background:var(--turkoosi);color:#fff;white-space:nowrap}
+.ilta.avoin{border-color:var(--vastavari);background:var(--vastavari-vaalea)}
+.ilta.avoin .pvm,.ilta.avoin .tila{background:var(--vastavari)}
 .ilta.joulu{border-color:#c62f3a;background:#fbe4e6}
 .ilta.joulu .pvm,.ilta.joulu .tila{background:#c62f3a}
 .tila.taynna{background:#f2f2f2;color:#888}
