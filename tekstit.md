@@ -248,12 +248,12 @@ Järjestätkö circling-ryhmää tai -iltoja? Jos haluat ryhmällesi maininnan, 
 
 Kansainvälisiä yhteisöjä, kouluja ja lähteitä, joista voit lukea lisää circlingistä ja sen sisarharjoituksista.
 
-- [Transformational Connection](https://www.transformationalconnection.com) – syvää yhteyttä lyhyessä ajassa: kosketus siihen, mikä on sinulle tärkeintä, tavalla joka luo muutosta ja herättää ihmetyksen tunteen · [YouTube-kanava](https://www.youtube.com/@transformationalconnection)
 - [Relateful](https://www.relateful.com) – relationaalista meditaatiota: harjoitusryhmiä, koulutuksia ja ilmainen verkkojohdanto
 - [Circling Institute](https://circlinginstitute.com) – San Franciscossa 1998 perustettu circlingin koulu: työpajoja, drop-in-iltoja ja koulutusohjelma
 - [Relating Arts](https://relatingarts.com) – Tukholmassa ja Kööpenhaminassa tehty sivusto: harjoituspankki, ilmaisia kursseja, fasilitaattorihakemisto ja podcast
 - [LessWrong: Circling](https://www.lesswrong.com/w/circling) – englanninkielinen yleiskatsaus circlingistä
 - [Circling Guide](https://circlingguide.com) – englanninkielinen opas circlingiin
+- [Transformational Connection](https://www.transformationalconnection.com/) – eurooppalainen relationaalisen työskentelyn ja authentic relatingin koulu, jonka Sean Wilkinson ja John Thompson perustivat vuonna 2012. Se toimi aiemmin nimellä Circling Europe. · [YouTube-kanava](https://www.youtube.com/@transformationalconnection)
 
 ## Authentic relating
 
