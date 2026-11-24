@@ -253,7 +253,7 @@ Kansainvälisiä yhteisöjä, kouluja ja lähteitä, joista voit lukea lisää c
 - [Relating Arts](https://relatingarts.com) – Tukholmassa ja Kööpenhaminassa tehty sivusto: harjoituspankki, ilmaisia kursseja, fasilitaattorihakemisto ja podcast
 - [LessWrong: Circling](https://www.lesswrong.com/w/circling) – englanninkielinen yleiskatsaus circlingistä
 - [Circling Guide](https://circlingguide.com) – englanninkielinen opas circlingiin
-- [Transformational Connection](https://www.transformationalconnection.com/) – eurooppalainen relationaalisen työskentelyn ja authentic relatingin koulu, jonka Sean Wilkinson ja John Thompson perustivat vuonna 2012. Se toimi aiemmin nimellä Circling Europe. · [YouTube-kanava](https://www.youtube.com/@transformationalconnection)
+- [Transformational Connection](https://www.transformationalconnection.com/) – eurooppalainen circling-koulu, jonka Sean Wilkinson ja John Thompson perustivat vuonna 2012. Se toimi aiemmin nimellä Circling Europe. · [YouTube-kanava](https://www.youtube.com/@transformationalconnection)
 
 ## Authentic relating
 
