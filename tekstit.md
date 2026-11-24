@@ -252,10 +252,10 @@ Kansainvälisiä yhteisöjä, kouluja ja lähteitä, joista voit lukea lisää c
 - [Circling Institute](https://circlinginstitute.com) – San Franciscossa 1998 perustettu circlingin koulu: työpajoja, drop-in-iltoja ja koulutusohjelma
 - [Relating Arts](https://relatingarts.com/practices/circling/) – harjoitusten kokonaisuus, joka keskittyy ihmisten välisen yhteyden laatuun: kuinka läsnä olet, kuinka rehellinen voit olla ja kuinka aidosti kohtaat toisen. Ulottuu ystävän kanssa kokeiltavasta pelistä vuosien opiskeluun. Perustaja [Peter Munthe-Kaas](https://relatingarts.com/people/peter-munthe-kaas/)
 - [LessWrong: Circling](https://www.lesswrong.com/w/circling) – englanninkielinen yleiskatsaus circlingistä
-- [Circling Guide](https://circlingguide.com) – englanninkielinen opas circlingiin
+- [Circling Guide](https://circlingguide.com) – englanninkielinen opas circlingiin. Perustaja Marc ”Marco” Beneteau
 - [Circling Canada](https://circlingcanada.com/) – kanadalainen circling- ja authentic relating -koulu: verkkokurssi, viikonloppuimmersioita ja ohjaajakoulutus
 - [The Connection Institute](https://theconnectioninstitute.net/) – verkkokoulu ja -yhteisö: circling-harjoituksia, fasilitaattorikoulutusta ja päivittäisiä live-tunteja
-- [Transformational Connection](https://www.transformationalconnection.com/) – eurooppalainen circling-koulu, jonka Sean Wilkinson ja John Thompson perustivat vuonna 2012. Se toimi aiemmin nimellä Circling Europe. · [YouTube-kanava](https://www.youtube.com/@transformationalconnection)
+- [Transformational Connection](https://www.transformationalconnection.com/) – eurooppalainen circling-koulu, jonka Sean Wilkinson ja John Thompson perustivat vuonna 2012. Se toimi aiemmin nimellä Circling Europe.
 
 ## Authentic relating
 
