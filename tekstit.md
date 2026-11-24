@@ -248,7 +248,7 @@ Järjestätkö circling-ryhmää tai -iltoja? Jos haluat ryhmällesi maininnan, 
 
 Kansainvälisiä yhteisöjä, kouluja ja lähteitä, joista voit lukea lisää circlingistä ja sen sisarharjoituksista.
 
-- [Relateful](https://www.relateful.com) – relationaalista meditaatiota: harjoitusryhmiä, koulutuksia ja ilmainen verkkojohdanto
+- [Relateful](https://www.relateful.com) – relationaalista meditaatiota: harjoitusryhmiä, koulutuksia ja ilmainen verkkojohdanto. Perustaja Jordan Myska Allen
 - [Circling Institute](https://circlinginstitute.com) – San Franciscossa 1998 perustettu circlingin koulu: työpajoja, drop-in-iltoja ja koulutusohjelma
 - [Relating Arts](https://relatingarts.com/practices/circling/) – harjoitusten kokonaisuus, joka keskittyy ihmisten välisen yhteyden laatuun: kuinka läsnä olet, kuinka rehellinen voit olla ja kuinka aidosti kohtaat toisen. Ulottuu ystävän kanssa kokeiltavasta pelistä vuosien opiskeluun. Perustaja [Peter Munthe-Kaas](https://relatingarts.com/people/peter-munthe-kaas/)
 - [LessWrong: Circling](https://www.lesswrong.com/w/circling) – englanninkielinen yleiskatsaus circlingistä
