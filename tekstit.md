@@ -256,9 +256,6 @@ Kansainvälisiä yhteisöjä, kouluja ja lähteitä, joista voit lukea lisää c
 - [Circling Canada](https://circlingcanada.com/) – kanadalainen circling- ja authentic relating -koulu: verkkokurssi, viikonloppuimmersioita ja ohjaajakoulutus
 - [The Connection Institute](https://theconnectioninstitute.net/) – verkkokoulu ja -yhteisö: circling-harjoituksia, fasilitaattorikoulutusta ja päivittäisiä live-tunteja
 - [Transformational Connection](https://www.transformationalconnection.com/) – eurooppalainen circling-koulu, jonka Sean Wilkinson ja John Thompson perustivat vuonna 2012. Se toimi aiemmin nimellä Circling Europe.
-
-## Authentic relating
-
 - [Autenttiset ry](https://www.autenttiset.fi) – suomalainen Authentic Relating -yhteisö: työpajoja ja tapahtumia Helsingissä ja Tampereella
 - [Authentic Revolution](https://www.authrev.org) – verkkokursseja, ryhmänohjauskoulutusta sekä Authentic Relating -pelejä ja käsikirjoja
 - [ART International: What is AR?](https://authenticrelating.co/what-is-ar/) – Authentic Relating Trainingin selitys siitä, mitä authentic relating on
