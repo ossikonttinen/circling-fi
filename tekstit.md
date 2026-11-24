@@ -49,7 +49,7 @@ Circling-ilta on tila, jossa tutkimme autenttista kokemusta yhdessä. Se on kuts
 
 ## Tulevat illat
 
-**Yhteyspiiri – circling-ilta** järjestetään joka maanantai Helsingissä, Vallilassa, ja se on avoin kaikille. Aiempaa kokemusta ei tarvita.
+**Yhteyspiiri – circling-ilta** järjestetään lähes joka maanantai Helsingissä, Vallilassa, ja se on avoin kaikille. Aiempaa kokemusta ei tarvita.
 
 {{illat}}
 
@@ -103,6 +103,8 @@ Ilta sopii sinulle, joka haluat tutkia läsnäoloa, yhteyttä ja autenttisuutta 
 - kehollista läsnäoloa ja elävyyttä
 - tilaa olla aito, näkyvä ja kuultu
 - kokemusta, joka voi avata uusia näkökulmia itseesi ja todellisuuteen
+
+&nbsp;
 
 Emme suosittele harjoitusta ihmisille, joilla on taipumus ahdistua tai triggeröityä voimakkaasti sosiaalisissa tilanteissa. Jos olet epävarma, kysy meiltä etukäteen: info@circling.fi
 
@@ -160,13 +162,13 @@ Authentic relatingin näkökulmasta circling on yksi sen peleistä – hieman sy
 
 - **Fokuscircling (birthday circle)** – ryhmän huomio on yhdessä ihmisessä kerrallaan: hänen kokemuksessaan ja siinä, millaista on olla juuri hän ja hänen kanssaan juuri nyt. Fokusta voi tehdä pareittain, kolmen hengen ryhmissä tai isommassa piirissä, yleensä 12–25 minuuttia henkilöä kohden.
 - **Flow circling (surrendered leadership)** – piirissä ei ole yhtä fokusta, vaan huomio liikkuu vapaasti sen mukaan, mikä ryhmässä kulloinkin elää. Johtajuus on jaettua, ja jokainen voi ohjata sitä miten yhteinen kenttä ja kokemus kehittyy.
-- **Piiricircling** – yhteinen piiri, jossa huoio liikkuu, mutta vain yksi puhuu kerrallaan.
+- **Piiricircling** – yhteinen piiri, jossa huomio liikkuu vapaasti, mutta vain yksi puhuu kerrallaan. Tämä voi muistuttaa välillä fokusta ja välillä rakenteellisempaa flowta.
 
-Circlingin konteksti voi olla yksinkertaisesti se, millaista on olla juuri nyt tässä hetkessä näiden ihmisten kanssa. Kontekstina voi myös olla jokin etukäteen määritelty aihe, jonka ympärillä cirlataan.
+Circlingin konteksti voi olla yksinkertaisesti se, millaista on olla juuri nyt tässä hetkessä näiden ihmisten kanssa. Kontekstina voi myös olla jokin etukäteen määritelty aihe, jonka ympärillä circlataan.
 
 ### Miten ilta etenee?
 
-Ilta alkaa yleensä yhteisellä tilaan lasketumisella ja rentoutuksella, kenties kevyellä pariharjoituksella. Illan aikana tutkimme yhteistä läsnäoloa erilaisten pari- ja ryhmäharjoitusten kautta. On mahdollisuus tutkia kuuntelemista, kokemuksen sanoittamista ja sitä, miten olla yhteydessä toiseen samalla kun pysymme yhteydessä itseemme. Ilta kestää kolme tuntia (klo 18.15–21.15), ja sen aikana pidämme teetauon.
+Ilta alkaa yleensä yhteisellä tilaan lasketumisella ja rentoutuksella, kenties kevyellä pariharjoituksella. Illan aikana tutkimme yhteistä läsnäoloa erilaisten pari- ja ryhmäharjoitusten kautta. On mahdollisuus tutkia kuuntelemista, kokemuksen sanoittamista ja sitä, miten olla yhteydessä toiseen samalla kun pysymme yhteydessä itseemme. Ilta kestää yleensä kolme tuntia, ja sen aikana pidämme teetauon.
 
 Oleellista on kehollisuuden taso, minkälaista olla kehossa juuri nyt ja mitä tuntemuksia huomaa itsessään. Kun huomio siirtyy kehoon, jotain alkaa usein pehmetä. Hengitys syvenee, aistimukset voimistuvat ja myös kehon luonnollinen liike voi herätä. Läsnäolo ei tapahtu vain mielessä, vaan jotain elävää ja kehossa koettavaa. Joskus kehollisuus voi johtaa autenttisen liikkeen kaltaiseen olemiseen, tai kontakti-impron kaltaiseen yhteiseen kehoiluun. Kenttä on avoin uteliaisuudelle, kokeilulle ja tutkimiselle.
 
@@ -184,13 +186,9 @@ Ossi ja Anssi ovat ohjanneet circlingiä yhdessä vuodesta 2021. Tavoitteena on 
 
 ### Ossi
 
-[Kuva: lisää tiedosto ossi.jpg ja vaihda tämä rivi muotoon ![Ossi](ossi.jpg "muotokuva")]
-
-Lehollisuuteen virittävien menetelmien ohjaaja, mm. somatic experiencing, authentic relating, circling. Häntä inspiroi turvallisen mutta transformatiivisen tilan luominen, jossa jokaisella on mahdollisuus kasvaa ja kohdata autenttinen itsensä. Hän toimii myös arkkitehtina ja on harjoittanut meditaatiota vuodesta 2001.
+Kehollisuuteen virittävien menetelmien ohjaaja, mm. somatic experiencing, authentic relating, circling. Häntä inspiroi turvallisen mutta transformatiivisen tilan luominen, jossa jokaisella on mahdollisuus kasvaa ja kohdata autenttinen itsensä. Hän toimii myös arkkitehtina ja on harjoittanut meditaatiota vuodesta 2001.
 
 ### Anssi
-
-[Kuva: lisää tiedosto anssi.jpg ja vaihda tämä rivi muotoon ![Anssi](anssi.jpg "muotokuva")]
 
 Psykologi ja metataitovalmentaja, jolla on pitkä kokemus circlingin ja tietoisuustaitojen harjoittamisesta vuodesta 2013.
 
@@ -199,7 +197,7 @@ Psykologi ja metataitovalmentaja, jolla on pitkä kokemus circlingin ja tietoisu
 
 ## Tulevat illat
 
-**Yhteyspiiri – circling-ilta**: läsnäolon, autenttisuuden ja tietoisen vuorovaikutuksen illat Helsingin Vallilassa. Kokoonnumme joka maanantai klo 18.15–21.15 Galleria Sitruunapuussa. Saavu paikalle klo 18.05 alkaen, jotta ehdimme aloittaa ajallaan. Ohjaajina Ossi ja Anssi.
+**Yhteyspiiri – circling-ilta**: läsnäolon, autenttisuuden ja tietoisen vuorovaikutuksen illat Helsingin Vallilassa. Kokoonnumme lähes joka maanantai klo 18.15–21.15 Galleria Sitruunapuussa. Saavu paikalle klo 18.05 alkaen, jotta ehdimme aloittaa ajallaan. Ohjaajina Ossi ja Anssi.
 
 Yhteyspiiri on avoin kaikille – aiempaa kokemusta ei tarvita.
 
@@ -239,7 +237,7 @@ Liity Yhteyspiirin [WhatsApp-yhteisöön](https://chat.whatsapp.com/GLgAwNXGRZGL
 
 ## Circling-ryhmiä Suomessa
 
-Yhteyspiirin illat ovat Helsingissä. Pienempiä circling-ryhmiä kokoontuu myös muualla Suomessa, esimerkiksi Tampereella.
+Yhteyspiirin illat ovat Helsingissä. Muita circling-ryhmiä kokoontuu myös muualla Suomessa, esimerkiksi Tampereella.
 
 Järjestätkö circling-ryhmää tai -iltoja? Jos haluat ryhmällesi maininnan, laita viestiä osoitteeseen [info@circling.fi](mailto:info@circling.fi), niin lisäämme mahdollisesti tietoja sivustolle.
 
@@ -250,7 +248,7 @@ Järjestätkö circling-ryhmää tai -iltoja? Jos haluat ryhmällesi maininnan, 
 
 Kansainvälisiä yhteisöjä, kouluja ja lähteitä, joista voit lukea lisää circlingistä ja sen sisarharjoituksista.
 
-- [Transformational Connection](https://www.transformationalconnection.com) – [lyhyt kuvaus] · [YouTube-kanava](https://www.youtube.com/@transformationalconnection)
+- [Transformational Connection](https://www.transformationalconnection.com) – syvää yhteyttä lyhyessä ajassa: kosketus siihen, mikä on sinulle tärkeintä, tavalla joka luo muutosta ja herättää ihmetyksen tunteen · [YouTube-kanava](https://www.youtube.com/@transformationalconnection)
 - [Relateful](https://www.relateful.com) – relationaalista meditaatiota: harjoitusryhmiä, koulutuksia ja ilmainen verkkojohdanto
 - [Circling Institute](https://circlinginstitute.com) – San Franciscossa 1998 perustettu circlingin koulu: työpajoja, drop-in-iltoja ja koulutusohjelma
 - [Relating Arts](https://relatingarts.com) – Tukholmassa ja Kööpenhaminassa tehty sivusto: harjoituspankki, ilmaisia kursseja, fasilitaattorihakemisto ja podcast
@@ -296,11 +294,15 @@ Lisää videoita: [Transformational Connection YouTubessa](https://www.youtube.c
 
 **Circling** is a shared exploration of presence and awareness: we slow down together and stay with what is happening right now – in you, in me and between us. It is a sister practice of Authentic Relating, and an evening may at times resemble Authentic Relating games, authentic movement or conversational meditation.
 
-**Yhteyspiiri – circling-ilta** meets every Monday 18:15–21:15 in Helsinki, at Galleria Sitruunapuu, Sammatintie 2 (Vallila) (arrive from 18:05). It is open to everyone – no previous experience needed.
+**Yhteyspiiri – circling-ilta** meets almost every Monday 18:15–21:15 in Helsinki, at Galleria Sitruunapuu, Sammatintie 2 (Vallila) (arrive from 18:05). It is open to everyone – no previous experience needed.
 
-Facilitators: Ossi (architect, embodiment and tantra facilitator, 20+ years of meditation) and Anssi (psychologist and metaskills coach, circling since 2013). They have facilitated circling together for four years.
+**Facilitators:** Ossi and Anssi have facilitated circling together since 2021. The aim is to create a space where everyone can be authentically themselves.
 
-The evenings are held mainly in Finnish. [Can you join in English? Write here what applies.]
+**Ossi** facilitates embodiment-oriented methods such as Somatic Experiencing, authentic relating and circling. He is inspired by creating a safe yet transformative space where everyone has the chance to grow and meet their authentic self. He also works as an architect and has practised meditation since 2001.
+
+**Anssi** is a psychologist and metaskills coach with long experience in circling and mindfulness practices since 2013.
+
+The evenings are held mainly in Finnish. If you want to join in English, that is possible – but please let us know in advance: info@circling.fi
 
 Tickets: single 29 €, students / low income 23 € (discount code), 3-visit card 66 €, 6-visit card 126 € – [buy at Holvi](https://holvi.com/shop/kehoyhteys/section/yhteyspiiri-circling/). Questions: info@circling.fi · [Join our WhatsApp community](https://chat.whatsapp.com/GLgAwNXGRZGL1qDIYoGRmq)
 
