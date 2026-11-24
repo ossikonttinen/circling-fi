@@ -147,12 +147,14 @@ Circlingiä kutsutaan myös vuorovaikutteiseksi meditaatioksi, mutta lopulta mit
 
 ### Circlingin periaatteet
 
-- **Sitoutuminen yhteyteen** – pysymme yhteydessä silloinkin, kun se tuntuu epämukavalta.
-- **Oman kokemuksen omistaminen** – puhun omasta kokemuksestani: ”minussa herää…”, en siitä, millainen toinen on.
-- **Tässä ja nyt** – huomio on siinä, mitä juuri nyt tapahtuu, ei tarinoissa menneestä.
-- **Kehon tuntemukset** – annamme tilaa sille, miltä asiat tuntuvat kehossa, emme vain sille, mitä ajattelemme.
-- **Toisen maailmaan astuminen** – kiinnostus siihen, millaista on olla juuri tämä ihminen.
-- **Kokemukseen luottaminen** – mikään kokemus ei ole väärä; kaikki on tervetullutta piiriin.
+ Priaatteet eivät ole sääntöjä, ne ovat harjoituksen kehys ja konteksti.
+
+- **Sitoutuminen yhteyteen** – pyrimme pysymään yhteydessä itseemme sekä toisiin silloinkin, kun se tuntuu epämukavalta. Etäisyyden voimme valita itse.
+- **Oman kokemuksen omistaminen** – puhun omasta kokemuksestani: ”minussa herää…”, vältän oletuksia ja otan vastuun itsetäni ja annan muiden tehdä samoin.
+- **Tässä ja nyt** – huomio on siinä, mitä minussa ja meissä tapahtuu juuri nyt, ei tarinoissa menneestä. Mikäli palaan menneeseen tai tarinaan, pidän sen lyhyenä.
+- **Kehon tuntemukset** – annamme tilaa sille, miltä asiat tuntuvat kehossa. Emme ole pelkästään päässä, vaan otamme kehollisuuden ja kehotuntemukset mukaan harjoitukseen.
+- **Toisen maailmassa oleminen** – olemme uteisiaita toisen kokemuksesta, voimme eläytyä siihen, minkälaista on olla juuri tämä toinen ihminen.
+- **Kokemukseen luottaminen** – mikään kokemus ei ole väärä; kaikki on tervetullutta, myös se, ettemme aina ymmärrä mitä tapahtuu, voimme ottaa tuntemattoman vastaan.
 
 ### Circling ja authentic relating
 
