@@ -11,7 +11,8 @@
   --turkoosi-reuna:  #cadde3;   /* ohuet reunaviivat */
   --vastavari:       #ea735f;   /* vastaväri (lohenpunainen): pienet korostukset */
   --vastavari-vaalea:#fde3dd;   /* vastavärin vaalea sävy */
-  --teksti:          #1b3440;   /* leipäteksti */
+  --teksti:          #151515;   /* leipäteksti (lähes musta) */
+  --musta:           #111111;   /* otsikot ja alatunniste */
   --harmaa:          #5c7480;   /* pienempi, haaleampi teksti */
   --tausta:          #ffffff;   /* sivun tausta */
 
@@ -27,7 +28,7 @@
 *{box-sizing:border-box;margin:0;padding:0}
 html,body{overflow-x:clip}
 body{font-family:var(--tekstifontti);color:var(--teksti);background:var(--tausta);line-height:1.65;font-size:var(--tekstikoko)}
-h1,h2,h3{font-family:var(--otsikkofontti);font-weight:600;line-height:1.2;color:var(--turkoosi-tumma)}
+h1,h2,h3{font-family:var(--otsikkofontti);font-weight:600;line-height:1.2;color:var(--musta)}
 h1{font-size:clamp(2.1rem,5vw,3.2rem);margin-bottom:18px}
 h2{font-size:1.8rem;margin:48px 0 16px}
 h3{font-size:1.25rem;margin:28px 0 8px}
@@ -138,7 +139,8 @@ ul.palautteet{list-style:none;columns:2 300px;column-gap:18px;max-width:none;mar
 ul.palautteet li{break-inside:avoid;margin:0 0 18px;padding:20px 22px;border-radius:var(--pyoristys);background:var(--turkoosi-vaalea);font-style:italic;color:var(--teksti);border-left:4px solid var(--vastavari)}
 
 /* ---------- Alatunniste ---------- */
-footer{border-top:1px solid var(--turkoosi-reuna);padding:28px 0;color:var(--harmaa);font-size:.9rem}
+footer{background:var(--musta);padding:32px 0;color:#d8d8d8;font-size:.9rem}
+footer a{color:#fff}
 footer p{margin:0}
 
 /* ---------- Puhelin ---------- */
