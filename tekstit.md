@@ -216,7 +216,7 @@ Valitse ilta alta, niin ilmoittautumislomake aukeaa.
 - **Paikka:** Galleria Sitruunapuu, Sammatintie 2, 00550 Helsinki (Vallila) · [Näytä kartalla](https://www.google.com/maps/search/?api=1&query=Sammatintie+2,+00550+Helsinki)
 - **Aika:** maanantaisin klo 18.15–21.15, saapuminen klo 18.05 alkaen
 - **Hinta:** kertalippu 29 € · opiskelija / vähävarainen 23 € (alennuskoodilla) · 3x sarjakortti 66 € · 6x sarjakortti 126 € · [Osta lippu Holvista](https://holvi.com/shop/kehoyhteys/section/yhteyspiiri-circling/)
-- **Alennuskoodi:** [koodi tai ohje, mistä koodin saa]
+- **Alennuskoodi:** pienivarainen (opiskelijat ja vähävaraiset, Holvin kassalla)
 - **Mukaan:** mukavat vaatteet
 - **Tauko:** illan aikana pidetään tauko, jolla on tarjolla teetä
 - **Esteettömyys:** tila on esteetön
@@ -307,7 +307,7 @@ Lisää videoita: [Transformational Connection YouTubessa](https://www.youtube.c
 
 The evenings are held mainly in Finnish. If you want to join in English, that is possible – but please let us know in advance: info@circling.fi
 
-Tickets: single 29 €, students / low income 23 € (discount code), 3-visit card 66 €, 6-visit card 126 € – [buy at Holvi](https://holvi.com/shop/kehoyhteys/section/yhteyspiiri-circling/). Questions: info@circling.fi · [Join our WhatsApp community](https://chat.whatsapp.com/GLgAwNXGRZGL1qDIYoGRmq)
+Tickets: single 29 €, students / low income 23 € (discount code: pienivarainen), 3-visit card 66 €, 6-visit card 126 € – [buy at Holvi](https://holvi.com/shop/kehoyhteys/section/yhteyspiiri-circling/). Questions: info@circling.fi · [Join our WhatsApp community](https://chat.whatsapp.com/GLgAwNXGRZGL1qDIYoGRmq)
 
 [Sign up](#tulevat-illat){nappi}
 
