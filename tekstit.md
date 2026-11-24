@@ -250,7 +250,7 @@ Kansainvälisiä yhteisöjä, kouluja ja lähteitä, joista voit lukea lisää c
 
 - [Relateful](https://www.relateful.com) – relationaalista meditaatiota: harjoitusryhmiä, koulutuksia ja ilmainen verkkojohdanto. Perustaja Jordan Myska Allen
 - [Circling Institute](https://circlinginstitute.com) – San Franciscossa 1998 perustettu circlingin koulu: työpajoja, drop-in-iltoja ja koulutusohjelma. Perustaja Guy Sengstock
-- [Relating Arts](https://relatingarts.com/practices/circling/) – harjoitusten kokonaisuus, joka keskittyy ihmisten välisen yhteyden laatuun: kuinka läsnä olet, kuinka rehellinen voit olla ja kuinka aidosti kohtaat toisen. Ulottuu ystävän kanssa kokeiltavasta pelistä vuosien opiskeluun. Perustaja [Peter Munthe-Kaas](https://relatingarts.com/people/peter-munthe-kaas/)
+- [Relating Arts](https://relatingarts.com/practices/circling/) – harjoitusten kokonaisuus, joka keskittyy ihmisten välisen yhteyden laatuun: kuinka läsnä olet, kuinka rehellinen voit olla ja kuinka aidosti kohtaat toisen. Ulottuu ystävän kanssa kokeiltavasta pelistä vuosien opiskeluun. Perustaja Peter Munthe-Kaas
 - [LessWrong: Circling](https://www.lesswrong.com/w/circling) – englanninkielinen yleiskatsaus circlingistä
 - [Circling Guide](https://circlingguide.com) – englanninkielinen opas circlingiin. Perustaja Marc ”Marco” Beneteau
 - [Circling Canada](https://circlingcanada.com/) – kanadalainen circling- ja authentic relating -koulu: verkkokurssi, viikonloppuimmersioita ja ohjaajakoulutus
