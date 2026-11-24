@@ -2,6 +2,8 @@
   CIRCLING.FI – SIVUJEN TEKSTIT
   ==============================
   Muokkaa tätä tiedostoa millä tahansa tekstieditorilla. Sivusto lukee tekstit täältä.
+  Jokainen === Sivu === -osio julkaistaan omana sivunaan (esim. circling.fi/tulevat-illat/).
+  Sisäiset linkit kirjoitetaan edelleen muodossa (#tulevat-illat) – ne muutetaan automaattisesti.
 
   OHJEET
   - Jokainen sivu alkaa rivillä:   === Sivun nimi ===

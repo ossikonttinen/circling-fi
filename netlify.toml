@@ -1,0 +1,4 @@
+# Netlify rakentaa sivut tekstit.md:stä jokaisen muutoksen jälkeen.
+[build]
+  command = "npm run build"
+  publish = "dist"
