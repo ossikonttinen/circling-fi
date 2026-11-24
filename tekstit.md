@@ -270,6 +270,7 @@ Videoita circlingistä ja authentic relatingista. Lisää videoita lisäämäll�
 
 - [What Is Circling? The Practice of Radical Human Connection](https://youtu.be/4uRPJKOC0-g)
 - [The 5 principles of Transformational Connection](https://youtu.be/OVT6b3TmW9o)
+- [Circling-video](https://youtu.be/wGTk45bTliQ)
 - [Circling (Method Outline Tutorial)](https://youtu.be/apD0SjVmO48)
 - [Circling Guide: How to do your first Circle – an Authentic Relating practice](https://youtu.be/xgvEd1eNszI)
 - [Don't Just Be Mindful… Be Relateful | Ep. 53 with Jordan Myska Allen](https://youtu.be/EbDo2CxQNTM)
