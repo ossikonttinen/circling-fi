@@ -1,6 +1,6 @@
 /**
  * circling.fi – rakentaa staattiset sivut tekstit.md:stä.
- * Netlify ajaa tämän jokaisen julkaisun yhteydessä (netlify.toml: npm run build → dist/).
+ * Cloudflare Pages ajaa tämän jokaisen julkaisun yhteydessä (npm run build → dist/). netlify.toml on vanhalta Netlifyltä.
  * Tekstejä EI muokata täällä, vaan tekstit.md:ssä.
  */
 const fs = require("fs");
